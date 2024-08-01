@@ -1,0 +1,11 @@
+tbody>tr{
+    border: 1px solid rgb(214, 214, 214);
+    text-align: center;
+}
+
+.location{
+    border-top-right-radius: 20px;
+}
+.id{
+    border-top-left-radius: 20px;
+}
